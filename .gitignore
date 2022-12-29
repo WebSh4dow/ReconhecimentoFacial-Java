@@ -8,7 +8,7 @@ tmp/
 local.properties
 .settings/
 .loadpath
-.classpath
+ .classpath
 .recommenders
 
 # External tool builders
